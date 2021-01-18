@@ -3,7 +3,7 @@
     <property name="created">2020-03-09T21:42:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.5.0.0</property>
-    <property name="modified">2021-01-18T15:04:42</property>
+    <property name="modified">2021-01-18T14:51:12</property>
     <property name="originalScheme">Solarized Light</property>
   </metaInfo>
   <colors>
@@ -1068,27 +1068,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fdf6df" />
+        <option name="BACKGROUND" value="fdf7d9" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="faf6e1" />
+        <option name="BACKGROUND" value="f5f7dd" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fdf3e4" />
+        <option name="BACKGROUND" value="fdeee5" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="f9f6e3" />
+        <option name="BACKGROUND" value="f2f5e4" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="f0e0cf" />
+        <option name="BACKGROUND" value="e9d4c4" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -1507,7 +1507,6 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
-    <option name="PHP_PARAMETER" baseAttributes="" />
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value />
     </option>

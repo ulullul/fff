@@ -1,29 +1,29 @@
 <scheme name="_@user_Light Owl (Material)" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
-    <property name="created">2021-01-18T14:41:21</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2020.3.1.0.0</property>
-    <property name="modified">2021-01-18T15:04:42</property>
+    <property name="created">2020-07-30T17:32:53</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2020.1.4.0.0</property>
+    <property name="modified">2021-01-18T14:51:12</property>
     <property name="originalScheme">Light Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
@@ -33,15 +33,6 @@
     <option name="CARET_ROW_COLOR" value="f0f0f0" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fbfbfb" />
     <option name="DELETED_LINES_COLOR" value="de3d3b" />
-    <option name="DIAGRAM_ANNOTATION_EDGE" value="994cc3" />
-    <option name="DIAGRAM_DEFAULT_EDGE" value="d3e8f8" />
-    <option name="DIAGRAM_GENERALIZATION_EDGE" value="4876d6" />
-    <option name="DIAGRAM_INNER_EDGE" value="c969b" />
-    <option name="DIAGRAM_NODE_BACKGROUND" value="fbfbfb" />
-    <option name="DIAGRAM_NODE_HEADER" value="d3e8f8" />
-    <option name="DIAGRAM_NOTE_BACKGROUND" value="fbfbfb" />
-    <option name="DIAGRAM_NOTE_BORDER" value="d3e8f8" />
-    <option name="DIAGRAM_REALIZATION_EDGE" value="aa0982" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="cccccc" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="cccccc" />
     <option name="DOCUMENTATION_COLOR" value="fbfbfb" />
@@ -205,8 +196,10 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="" />
-    <option name="BASH.SHEBANG" baseAttributes="" />
+    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="111111" />
@@ -459,8 +452,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="403f53" />
@@ -1149,27 +1142,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fbfbf6" />
+        <option name="BACKGROUND" value="fbfbef" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f8fbf8" />
+        <option name="BACKGROUND" value="f3fbf3" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fbf8fb" />
+        <option name="BACKGROUND" value="fbf3fb" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="f7fbfb" />
+        <option name="BACKGROUND" value="f0fafa" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="eee4e4" />
+        <option name="BACKGROUND" value="e7d8d8" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -1205,6 +1198,10 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.PRIMITIVE">
       <value>
         <option name="FOREGROUND" value="bc5454" />
@@ -1448,12 +1445,6 @@
       <value>
         <option name="FOREGROUND" value="403f53" />
         <option name="BACKGROUND" value="2aa298" />
-      </value>
-    </option>
-    <option name="LIVE_TEMPLATE_INACTIVE_SEGMENT">
-      <value>
-        <option name="FOREGROUND" value="989fb1" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="LOG_DEBUG_OUTPUT">
@@ -2991,11 +2982,6 @@
         <option name="FOREGROUND" value="57b6c2" />
       </value>
     </option>
-    <option name="REGEXP_MATCHED_GROUPS">
-      <value>
-        <option name="BACKGROUND" value="d9d9d9" />
-      </value>
-    </option>
     <option name="REST.FIXED">
       <value>
         <option name="BACKGROUND" value="f0f0f0" />
@@ -3201,8 +3187,6 @@
     </option>
     <option name="RUNTIME_ERROR">
       <value>
-        <option name="EFFECT_COLOR" value="de3d3b" />
-        <option name="ERROR_STRIPE_COLOR" value="de3d3b" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -3416,7 +3400,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="e2d8af" />
+        <option name="BACKGROUND" value="314365" />
       </value>
     </option>
     <option name="SLIM_CLASS">
@@ -3679,7 +3663,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="" />
+    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="ff6363" />
