@@ -3,7 +3,7 @@
     <property name="created">2020-07-29T22:27:05</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.4.0.0</property>
-    <property name="modified">2021-01-18T14:51:12</property>
+    <property name="modified">2021-01-18T15:08:14</property>
     <property name="originalScheme">Github</property>
   </metaInfo>
   <colors>
@@ -894,27 +894,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fffff3" />
+        <option name="BACKGROUND" value="fffff2" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f7fff7" />
+        <option name="BACKGROUND" value="f6fff6" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fff7ff" />
+        <option name="BACKGROUND" value="fff6ff" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="f4fefe" />
+        <option name="BACKGROUND" value="f3fefe" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="ebdbdb" />
+        <option name="BACKGROUND" value="d9bcbc" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -1367,11 +1367,6 @@
         <option name="FOREGROUND" value="183691" />
       </value>
     </option>
-    <option name="REST.BOLD">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="REST.EXPLICIT">
       <value>
         <option name="FOREGROUND" value="a71d5d" />
@@ -1380,26 +1375,6 @@
     <option name="REST.FIELD">
       <value>
         <option name="FOREGROUND" value="a71d5d" />
-      </value>
-    </option>
-    <option name="REST.FIXED">
-      <value>
-        <option name="BACKGROUND" value="d9d9f0" />
-      </value>
-    </option>
-    <option name="REST.INLINE">
-      <value>
-        <option name="BACKGROUND" value="edfced" />
-      </value>
-    </option>
-    <option name="REST.INTERPRETED">
-      <value>
-        <option name="BACKGROUND" value="cadaba" />
-      </value>
-    </option>
-    <option name="REST.ITALIC">
-      <value>
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="REST.LINE_COMMENT">
