@@ -13,4 +13,8 @@
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
   <component name="LiveEditOptions" chromeAutoDelay="200" chromeUpdateJSOnChanges="true" useJBChromeExtension="true" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
