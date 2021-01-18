@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+    <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
+    <option name="CONTRAST_SCROLLBARS" value="true" />
+  </component>
+</application>
