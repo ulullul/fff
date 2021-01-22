@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="git" type="Native" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="templates-styles" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
