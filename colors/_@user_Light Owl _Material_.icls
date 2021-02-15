@@ -4,7 +4,7 @@
     <property name="created">2020-07-30T17:32:53</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.4.0.0</property>
-    <property name="modified">2021-01-18T14:51:12</property>
+    <property name="modified">2021-01-18T14:56:00</property>
     <property name="originalScheme">Light Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -196,10 +196,10 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
+    <option name="BASH.FUNCTION_CALL" baseAttributes="" />
+    <option name="BASH.HERE_DOC" baseAttributes="" />
+    <option name="BASH.REDIRECTION" baseAttributes="" />
+    <option name="BASH.SHEBANG" baseAttributes="" />
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="111111" />
@@ -452,8 +452,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="403f53" />
@@ -1142,27 +1142,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fbfbef" />
+        <option name="BACKGROUND" value="fbfbe4" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f3fbf3" />
+        <option name="BACKGROUND" value="ecfbec" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fbf3fb" />
+        <option name="BACKGROUND" value="fbecfb" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="f0fafa" />
+        <option name="BACKGROUND" value="e6f9f9" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="e7d8d8" />
+        <option name="BACKGROUND" value="d6b9b9" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -3663,7 +3663,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="YAML_ANCHOR" baseAttributes="" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="ff6363" />

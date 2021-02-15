@@ -3,7 +3,7 @@
     <property name="created">2020-03-09T21:42:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.5.0.0</property>
-    <property name="modified">2021-01-18T14:51:12</property>
+    <property name="modified">2021-01-18T14:56:00</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <colors>
@@ -739,15 +739,15 @@
         <option name="FOREGROUND" value="75715e" />
       </value>
     </option>
-    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
-    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_FILTER" baseAttributes="" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
-    <option name="HAML_RUBY_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="HAML_RUBY_CODE" baseAttributes="" />
+    <option name="HAML_RUBY_START" baseAttributes="" />
     <option name="HAML_STRING">
       <value>
         <option name="FOREGROUND" value="e6db74" />
@@ -758,14 +758,14 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
-    <option name="HAML_TAG" baseAttributes="TEXT" />
+    <option name="HAML_TAG" baseAttributes="" />
     <option name="HAML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="TEXT" />
-    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_TEXT" baseAttributes="" />
+    <option name="HAML_XHTML" baseAttributes="" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
@@ -815,27 +815,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="2f3023" />
+        <option name="BACKGROUND" value="363724" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2a3025" />
+        <option name="BACKGROUND" value="2d3729" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="2f2b2a" />
+        <option name="BACKGROUND" value="362e32" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="282f2a" />
+        <option name="BACKGROUND" value="2a3630" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="352722" />
+        <option name="BACKGROUND" value="422621" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

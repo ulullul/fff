@@ -4,7 +4,7 @@
     <property name="created">2020-03-09T21:42:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.5.0.0</property>
-    <property name="modified">2021-01-18T14:51:12</property>
+    <property name="modified">2021-01-18T14:56:00</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -976,31 +976,31 @@
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="fafaee" />
+        <option name="BACKGROUND" value="fbfbe4" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="f2faf2" />
+        <option name="BACKGROUND" value="ebfbeb" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="faf2fa" />
+        <option name="BACKGROUND" value="fbebfb" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="eff9f9" />
+        <option name="BACKGROUND" value="e5f8f8" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="e7d7d7" />
+        <option name="BACKGROUND" value="d5b8b8" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

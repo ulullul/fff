@@ -3,7 +3,7 @@
     <property name="created">2020-03-09T21:42:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.5.0.0</property>
-    <property name="modified">2021-01-18T14:51:12</property>
+    <property name="modified">2021-01-18T14:56:00</property>
     <property name="originalScheme">All hallow's eve</property>
   </metaInfo>
   <colors>
@@ -788,27 +788,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="a0a02" />
+        <option name="BACKGROUND" value="121205" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="50a05" />
+        <option name="BACKGROUND" value="91209" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="a050a" />
+        <option name="BACKGROUND" value="120912" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="30909" />
+        <option name="BACKGROUND" value="61111" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="140505" />
+        <option name="BACKGROUND" value="270a0a" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
