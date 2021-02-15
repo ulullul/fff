@@ -1,7 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="XML/Expand empty tag" />
-    <ignoreAction name="Language injection/Uninject language or reference" />
-    <ignoreAction name="Language Injection/Edit Injected Fragment" />
-  </component>
-</application>
