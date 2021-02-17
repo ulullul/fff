@@ -5,7 +5,6 @@
       <mapping pattern="s" type="AUTO_DETECTED" />
       <mapping pattern="order1.json" type="AUTO_DETECTED" />
       <mapping pattern="ss" type="AUTO_DETECTED" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="templates-styles" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
