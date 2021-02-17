@@ -4,7 +4,7 @@
     <property name="created">2020-03-09T21:42:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.5.0.0</property>
-    <property name="modified">2021-02-17T12:44:35</property>
+    <property name="modified">2021-02-17T12:49:39</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -952,27 +952,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="313123" />
+        <option name="BACKGROUND" value="303033" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="283128" />
+        <option name="BACKGROUND" value="2e3331" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="312831" />
+        <option name="BACKGROUND" value="323330" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="242f2f" />
+        <option name="BACKGROUND" value="35312f" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="352e2e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="352c2c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="3e2121" />
+        <option name="BACKGROUND" value="322121" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -1109,7 +1119,15 @@
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
@@ -2168,9 +2186,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="353535" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ffcc00" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">

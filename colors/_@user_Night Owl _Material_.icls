@@ -4,7 +4,7 @@
     <property name="created">2020-07-30T17:32:53</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.4.0.0</property>
-    <property name="modified">2021-02-17T12:44:35</property>
+    <property name="modified">2021-02-17T12:49:39</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1152,27 +1152,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="132629" />
+        <option name="BACKGROUND" value="132638" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="a262d" />
+        <option name="BACKGROUND" value="112937" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="131d36" />
+        <option name="BACKGROUND" value="152936" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="72535" />
+        <option name="BACKGROUND" value="182735" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="182433" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="182232" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="271925" />
+        <option name="BACKGROUND" value="181826" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

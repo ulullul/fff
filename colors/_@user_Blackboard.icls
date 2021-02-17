@@ -3,7 +3,7 @@
     <property name="created">2020-03-09T21:42:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.5.0.0</property>
-    <property name="modified">2021-02-17T12:44:35</property>
+    <property name="modified">2021-02-17T12:49:38</property>
     <property name="originalScheme">Blackboard</property>
   </metaInfo>
   <colors>
@@ -795,27 +795,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="1d2123" />
+        <option name="BACKGROUND" value="1d2133" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="142128" />
+        <option name="BACKGROUND" value="1b2331" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="1d1831" />
+        <option name="BACKGROUND" value="1f2430" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="11202f" />
+        <option name="BACKGROUND" value="22222f" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="221f2e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="221c2c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="2f1521" />
+        <option name="BACKGROUND" value="211321" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

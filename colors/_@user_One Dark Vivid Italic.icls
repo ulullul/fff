@@ -3,7 +3,7 @@
     <property name="created">2021-02-17T12:37:46</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-02-17T12:44:35</property>
+    <property name="modified">2021-02-17T12:49:38</property>
     <property name="originalScheme">One Dark Vivid Italic</property>
   </metaInfo>
   <colors>
@@ -947,6 +947,9 @@
         <option name="FOREGROUND" value="89ca78" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="ef596f" />
@@ -1006,27 +1009,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="373b35" />
+        <option name="BACKGROUND" value="363a44" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2e3b39" />
+        <option name="BACKGROUND" value="353d42" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="373242" />
+        <option name="BACKGROUND" value="393d41" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="2b3a41" />
+        <option name="BACKGROUND" value="3b3b41" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="3b383f" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="3b363e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="43282e" />
+        <option name="BACKGROUND" value="382a30" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -1184,12 +1197,12 @@
       </value>
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value />
-    </option>
-    <option name="KOTLIN_LABEL">
       <value>
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -1427,7 +1440,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="515a6b" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">

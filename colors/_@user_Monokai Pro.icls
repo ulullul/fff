@@ -4,7 +4,7 @@
     <property name="created">2020-03-09T21:42:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.5.0.0</property>
-    <property name="modified">2021-02-17T12:44:35</property>
+    <property name="modified">2021-02-17T12:49:39</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -929,27 +929,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="3c392f" />
+        <option name="BACKGROUND" value="3b393f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="333934" />
+        <option name="BACKGROUND" value="393b3d" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="3c303d" />
+        <option name="BACKGROUND" value="3d3c3c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="2f383b" />
+        <option name="BACKGROUND" value="403a3b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="40373a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="403438" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="46272a" />
+        <option name="BACKGROUND" value="3c282b" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

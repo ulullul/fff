@@ -3,7 +3,7 @@
     <property name="created">2021-02-17T12:37:46</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-02-17T12:44:35</property>
+    <property name="modified">2021-02-17T12:49:39</property>
     <property name="originalScheme">Hiberbee Dark</property>
   </metaInfo>
   <colors>
@@ -1115,31 +1115,43 @@
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="29291c" />
+        <option name="BACKGROUND" value="28292c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="202920" />
+        <option name="BACKGROUND" value="272c2a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="292029" />
+        <option name="BACKGROUND" value="2b2c29" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="1d2828" />
+        <option name="BACKGROUND" value="2d2a28" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" value="2d2727" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" value="2d2425" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="381b1b" />
+        <option name="BACKGROUND" value="2c1a1a" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
