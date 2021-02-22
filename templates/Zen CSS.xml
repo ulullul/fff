@@ -1,0 +1,27 @@
+<templateSet group="Zen CSS">
+  <template name="aic" value="align-items:center;" description="align-items:center;" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="df" value="display:flex;" description="display:flex;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="tac" value="text-align:center;" description="text-align:center;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="db" value="display:block;" description="display:block;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="usn" value="user-select: none;" description="user-select: none;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,33 @@
+<keymap version="1" name="Default copy 2" parent="$default">
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
+  <action id="IntroduceParameter" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="ServiceView.GroupByServiceGroups" />
+  <action id="TodoViewGroupByShowPackages" />
+  <action id="osmedile.intellij.stringmanip.ToLowerCaseAction">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.ToUpperCaseAction">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+</keymap>
